@@ -1,1 +1,1 @@
-# Athlete-Health-Injury-Insights
+# Athlete Health Injury Insights
